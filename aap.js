@@ -1,3 +1,4 @@
+// app js uses our own emitter object
 var Emitter =  require('./emitter');
 var emitr = new Emitter();
 
